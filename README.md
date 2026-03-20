@@ -1,4 +1,4 @@
-# txt2wav — Kansas City Standard Encoder/Decoder
+# txt2wav — Kansas City Standard Encoder/Decoder(kayman send me msg via tg id: @mrwolf621)
 
 Store text on cassette tapes as audio tones using the [Kansas City Standard](https://en.wikipedia.org/wiki/Kansas_City_standard) (KCS).
 
